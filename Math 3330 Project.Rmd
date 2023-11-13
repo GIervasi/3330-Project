@@ -1,0 +1,123 @@
+---
+title: "Math 3330 Project"
+author: "Giuliano Iervasi, Rahil Shaikh, Bryan Encalada and Vasily Carayannis"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Part 1
+## Multiple Linear Regression model
+
+
+```{r MLR model}
+library(readr)
+df <- read_csv("https://github.com/ShakikhRahil/3330-Project/raw/main/data_for_project.csv")
+df
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
+
+
+## R Markdown
+
+
+```{r }
+
+```
